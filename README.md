@@ -15,6 +15,3 @@ That's a minecraft plugin which allows players to save their locations with a co
 
 ## Contact info
 If you need to contact me just DM me on [Instagram](https://instagram.com/tomektopola). If Insta doesn't feel right for you there's also an email: t.topola.yt@gmail.com
-
-## Buy me a coffee
-Do you like what I'm doing? Feel free to tip me! Here's my [PayPal](https://paypal.me/tomasztopola)
